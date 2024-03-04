@@ -130,3 +130,31 @@ footer {
 .text-center {
   text-align: center;
 }
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+table tr:hover{
+  background: rgb(183, 0, 0);
+}
+
+table td:hover{
+  background:rgb(246, 49, 49);
+}
+
+table {
+  border-color: aliceblue;
+}
+
+th {
+  background-color: aliceblue;
+}
+
+img {
+  max-width: 100px;
+  width: 90px;
+  height: 90px;
+}
